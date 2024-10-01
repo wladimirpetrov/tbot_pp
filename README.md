@@ -116,10 +116,6 @@ This framework, developed by Vladimir Petrov, provides a comprehensive solution 
 
 Feel free to submit issues or pull requests to improve this project. Contributions are welcome!
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ## Acknowledgements
 
 Developed by Vladimir Petrov.
